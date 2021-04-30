@@ -1,13 +1,16 @@
 package LinkedList;
 import java.util.*;
 
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) {
-        val = x;
-    }
-}
+
+
+ class ListNode {
+     int val;
+     ListNode next;
+     ListNode(int x) {
+         val = x;
+         next = null;
+     }
+ }
 
 
 //输入一个链表的头节点，从尾到头反过来返回每个节点的值（用数组返回）。
