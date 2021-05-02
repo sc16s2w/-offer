@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cda10667-5faf-413f-ae3e-1b5f3b9269db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Code_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Code_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Code_35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Code_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Code_27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Code_55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Code_55_b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Code_68_b.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LinkedList/Code_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Code_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/Code_52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Code_52.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/Code_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Code_22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/Code_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Code_24.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +84,8 @@
       <updated>1619533494590</updated>
       <workItem from="1619533531811" duration="3124000" />
       <workItem from="1619728131514" duration="2026000" />
-      <workItem from="1619768266017" duration="8369000" />
+      <workItem from="1619768266017" duration="9335000" />
+      <workItem from="1619948686524" duration="5520000" />
     </task>
     <servers />
   </component>
@@ -89,9 +93,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1343" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1619768467015">
-      <screen x="0" y="25" width="2560" height="998" />
+    <state x="940" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1619948687332">
+      <screen x="0" y="25" width="1792" height="1038" />
     </state>
+    <state x="940" y="366" key="com.intellij.ide.util.TipDialog/0.25.1792.1038@0.25.1792.1038" timestamp="1619948687332" />
     <state x="1343" y="353" key="com.intellij.ide.util.TipDialog/0.25.2560.998@0.25.2560.998" timestamp="1619768467015" />
   </component>
 </project>
