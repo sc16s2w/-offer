@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cda10667-5faf-413f-ae3e-1b5f3b9269db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tree/Code_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Code_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Code_55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Code_55_b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Code_68_b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Code_32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Code_54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Code_68_a.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/Code_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Code_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/Code_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Code_22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList/Code_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Code_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/Code_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Code_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/Code_68_b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Code_68_b.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +57,20 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Code_54">
+    <configuration name="Code_54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.Code_54" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="untitled104" />
@@ -71,6 +81,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Code_54" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -85,7 +100,8 @@
       <workItem from="1619533531811" duration="3124000" />
       <workItem from="1619728131514" duration="2026000" />
       <workItem from="1619768266017" duration="9335000" />
-      <workItem from="1619948686524" duration="5520000" />
+      <workItem from="1619948686524" duration="5583000" />
+      <workItem from="1620027938120" duration="11343000" />
     </task>
     <servers />
   </component>
@@ -93,10 +109,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="940" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1619948687332">
+    <state x="940" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1620027943430">
       <screen x="0" y="25" width="1792" height="1038" />
     </state>
-    <state x="940" y="366" key="com.intellij.ide.util.TipDialog/0.25.1792.1038@0.25.1792.1038" timestamp="1619948687332" />
+    <state x="940" y="366" key="com.intellij.ide.util.TipDialog/0.25.1792.1038@0.25.1792.1038" timestamp="1620027943430" />
     <state x="1343" y="353" key="com.intellij.ide.util.TipDialog/0.25.2560.998@0.25.2560.998" timestamp="1619768467015" />
   </component>
 </project>

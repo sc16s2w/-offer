@@ -10,6 +10,9 @@ class TreeNode {
 
 public class Code_07 {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
+        TreeNode root = null;
+        root.val = preorder[0];
+        while()
 
     }
 
