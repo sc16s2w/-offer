@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cda10667-5faf-413f-ae3e-1b5f3b9269db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tree/Code_32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Code_54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Code_68_a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Code_32_b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Code_32_c.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Code_34.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Code_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Code_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/Code_68_b.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/Code_68_b.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +99,8 @@
       <workItem from="1619728131514" duration="2026000" />
       <workItem from="1619768266017" duration="9335000" />
       <workItem from="1619948686524" duration="5583000" />
-      <workItem from="1620027938120" duration="11343000" />
+      <workItem from="1620027938120" duration="11771000" />
+      <workItem from="1620141613822" duration="8013000" />
     </task>
     <servers />
   </component>
@@ -109,10 +108,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="940" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1620027943430">
+    <state width="929" height="268" key="GridCell.Tab.0.bottom" timestamp="1620075722677">
       <screen x="0" y="25" width="1792" height="1038" />
     </state>
+    <state width="929" height="268" key="GridCell.Tab.0.bottom/0.25.1792.1038@0.25.1792.1038" timestamp="1620075722677" />
+    <state width="929" height="268" key="GridCell.Tab.0.center" timestamp="1620075722676">
+      <screen x="0" y="25" width="1792" height="1038" />
+    </state>
+    <state width="929" height="268" key="GridCell.Tab.0.center/0.25.1792.1038@0.25.1792.1038" timestamp="1620075722676" />
+    <state width="929" height="268" key="GridCell.Tab.0.left" timestamp="1620075722676">
+      <screen x="0" y="25" width="1792" height="1038" />
+    </state>
+    <state width="929" height="268" key="GridCell.Tab.0.left/0.25.1792.1038@0.25.1792.1038" timestamp="1620075722676" />
+    <state width="929" height="268" key="GridCell.Tab.0.right" timestamp="1620075722677">
+      <screen x="0" y="25" width="1792" height="1038" />
+    </state>
+    <state width="929" height="268" key="GridCell.Tab.0.right/0.25.1792.1038@0.25.1792.1038" timestamp="1620075722677" />
+    <state x="1343" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1620141614470">
+      <screen x="0" y="25" width="2560" height="998" />
+    </state>
     <state x="940" y="366" key="com.intellij.ide.util.TipDialog/0.25.1792.1038@0.25.1792.1038" timestamp="1620027943430" />
-    <state x="1343" y="353" key="com.intellij.ide.util.TipDialog/0.25.2560.998@0.25.2560.998" timestamp="1619768467015" />
+    <state x="1343" y="353" key="com.intellij.ide.util.TipDialog/0.25.2560.998@0.25.2560.998" timestamp="1620141614470" />
   </component>
 </project>
