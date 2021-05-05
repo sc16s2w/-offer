@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cda10667-5faf-413f-ae3e-1b5f3b9269db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tree/Code_32_b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Code_32_c.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/Code_34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Code_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Code_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Code_33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree/Code_36.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,13 +48,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Stack&amp;&amp;Queue" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Stack&amp;&amp;Queue" />
+      <recent name="$PROJECT_DIR$/src/Tree" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Code_54">
     <configuration name="Code_54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -101,6 +108,7 @@
       <workItem from="1619948686524" duration="5583000" />
       <workItem from="1620027938120" duration="11771000" />
       <workItem from="1620141613822" duration="8013000" />
+      <workItem from="1620204883379" duration="8472000" />
     </task>
     <servers />
   </component>
@@ -124,10 +132,14 @@
       <screen x="0" y="25" width="1792" height="1038" />
     </state>
     <state width="929" height="268" key="GridCell.Tab.0.right/0.25.1792.1038@0.25.1792.1038" timestamp="1620075722677" />
-    <state x="1343" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1620141614470">
+    <state x="1343" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1620204886634">
       <screen x="0" y="25" width="2560" height="998" />
     </state>
     <state x="940" y="366" key="com.intellij.ide.util.TipDialog/0.25.1792.1038@0.25.1792.1038" timestamp="1620027943430" />
-    <state x="1343" y="353" key="com.intellij.ide.util.TipDialog/0.25.2560.998@0.25.2560.998" timestamp="1620141614470" />
+    <state x="1343" y="353" key="com.intellij.ide.util.TipDialog/0.25.2560.998@0.25.2560.998" timestamp="1620204886634" />
+    <state x="1489" y="245" width="670" height="676" key="search.everywhere.popup" timestamp="1620207080136">
+      <screen x="0" y="25" width="2560" height="998" />
+    </state>
+    <state x="1489" y="245" width="670" height="676" key="search.everywhere.popup/0.25.2560.998@0.25.2560.998" timestamp="1620207080136" />
   </component>
 </project>
