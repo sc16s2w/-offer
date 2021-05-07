@@ -5,9 +5,9 @@ package Tree;
  * 如果是则返回 true，否则返回 false。
  * 假设输入的数组的任意两个数字都互不相同。
  */
-public class Code_33 {
-    public boolean verifyPostorder(int[] postorder) {
-
-
-    }
-}
+//public class Code_33 {
+//    public boolean verifyPostorder(int[] postorder) {
+//
+//
+//    }
+//}
