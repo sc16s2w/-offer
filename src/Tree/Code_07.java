@@ -15,5 +15,10 @@ class TreeNode {
 //        while()
 //
 //    }
+//    void inorder(TreeNode root, int[] inorder){
+//        inorder(root.left, int[] inorder);
+//        root = new TreeNode(inorder[i]);
+//        inorder(root.right);
+//    }
 //
 //}
